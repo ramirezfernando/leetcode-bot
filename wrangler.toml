@@ -1,0 +1,6 @@
+name = "leetcode_bot"
+main = "bot.js"
+compatibility_date = "2022-06-07"
+
+[triggers]
+crons = [ "1 0 * * *" ]
